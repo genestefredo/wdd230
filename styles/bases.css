@@ -11,22 +11,33 @@ img{
 h1{
     color: white;
     padding-top: 25px;
+    text-align: right;
 
 }
  nav{
  display: grid;
  grid-template-columns: 1fr;
- background-color: black;
+ margin-bottom: 5px;
  
  }
  .h{
     background-color:#77021D ;
     color: white;
     margin-bottom: 5px;
+    font-size: 1.5rem;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    text-align: center;
+
+    
  }
  .c{
     background-color: black;
     color: white;
+    font-size: 2rem;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
     
  }
  
