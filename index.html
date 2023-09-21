@@ -12,6 +12,7 @@
         <link href="https://fonts.googleapis.com/css2?familly=Roboto&display=swap" rel="stylessheet">
         <link rel="stylesheet" href="styles/bases.css">
         <link rel="stylesheet" href="styles/larger.css">
+        <link rel="icon" href="images\favicon.ico">
     </head>
 </head>
 <body>
@@ -43,9 +44,14 @@
     </main>
     <footer>
         <p>
-            &copy;FredoGeneste Port-au-Prince,Haiti 
+            Copyring &copy; |FredoGeneste |Port-au-Prince,Haiti 
         </p>
-        <p>lastModified</p>
+        <p>Current Date and Time is <span id='date-time'></span>.</p>
+
     </footer>
+    <script>
+        const dt = new Date();
+        document.getElementById('date-time').innerHTML=dt;
+        </script>
 </body>
 </html>
