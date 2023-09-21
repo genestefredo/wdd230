@@ -64,3 +64,32 @@ header{
     z-index: 1;
 
 }
+.card, .card1{
+    border: 1px solid;
+    border-radius: 5px;
+}
+h3{
+    font-size: 2rem;
+    color: white;
+    background-color:#335F8A;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom:5px;
+    margin-top: auto;
+    
+}
+.card1{
+    margin-top: 10px;
+    
+}
+p img{
+    height: 40px;
+    width: 40px;
+
+}
+footer{
+    background-color: #335F8A;
+    text-align: center;
+    font-size: 2rem;
+    
+}
