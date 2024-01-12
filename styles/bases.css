@@ -59,7 +59,9 @@ p{
 footer{
     background-color: bisque;
     text-align: center;
+    padding: 5px 5px;
 }
 footer img{
     width: 20px;
+    
 }
