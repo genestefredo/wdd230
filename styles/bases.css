@@ -60,6 +60,13 @@ footer{
     background-color: bisque;
     text-align: center;
     padding: 5px 5px;
+<<<<<<< HEAD
+=======
+}
+footer img{
+    width: 20px;
+    
+>>>>>>> baa4d750b2f6e4c3c1291f4d185891f68bd61501
 }
 footer img{
     width: 20px;
