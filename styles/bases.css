@@ -7,8 +7,8 @@ body{
     header{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    background-color: bisque;
-    border: 2px solid forestgreen;
+    background-color: #ff8a80;
+    border: 2px solid #D50000;
    }
  header img{
     margin-left: 125px;
@@ -28,7 +28,8 @@ h1{
 .nav a{
  display: block;
  text-align: center;
- background-color: goldenrod;
+ background-color:#D50000;
+ color: #FF8A80;
  line-height: 0px;
  letter-spacing: 2px;
  padding: 1rem;
@@ -41,15 +42,16 @@ h2{
 }
 hr{
     margin: 20px;
+    background-color: #FF1744;
 }
 h3{
-    background-color: bisque;
+    background-color: #D50000;
     line-height: 40px;
     margin-top: -2px;
     }
 
 .card{
-    border: 1px solid black;
+    border: 1px solid #FF1744;
     margin: 20px;
     padding-bottom: 15px;    
 }
@@ -57,7 +59,7 @@ p{
     text-align: center;
 }
 footer{
-    background-color: bisque;
+    background-color: #FF8A80;
     text-align: center;
     padding: 5px 5px;
 }
