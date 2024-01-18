@@ -8,7 +8,7 @@ body{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     background-color: #ff8a80;
-    border: 2px solid #D50000;
+    border: 2px solid #d56300d3;
    }
  header img{
     margin-left: 125px;
@@ -42,10 +42,11 @@ h2{
 }
 hr{
     margin: 20px;
-    background-color: #FF1744;
+    color: #FF1744;
 }
 h3{
     background-color: #D50000;
+    color: white;
     line-height: 40px;
     margin-top: -2px;
     }
@@ -59,7 +60,8 @@ p{
     text-align: center;
 }
 footer{
-    background-color: #FF8A80;
+    background-color: #a54d45aa;
+    color: black;
     text-align: center;
     padding: 5px 5px;
 }
