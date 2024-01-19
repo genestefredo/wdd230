@@ -50,7 +50,7 @@ main section:nth-child(2){
 		border: 1px solidn#bbb;
 	}
 }
-/*Destop Views******************/
+/*Destop Views*******************/
 @media only screen and (min-width: 60em) {
 	main {
 		grid-template-columns: 1fr 1fr 1fr;
